@@ -62,6 +62,10 @@
 
 
           </script>
+
+          <style type="text/css">
+              sup { color: red; }
+          </style>
         </head>
 
         <body ng-app="">
