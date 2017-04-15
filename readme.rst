@@ -35,9 +35,3 @@ Installation
 Rename the root folder to itclub.
 Then run this application through a local server example WAMP, XAMPP or LAMP.
 Import database/itclub_db.sql into server's database.
-
-***************
-Acknowledgement
-***************
-
-To be done.
